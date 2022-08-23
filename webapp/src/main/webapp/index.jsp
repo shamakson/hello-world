@@ -8,6 +8,10 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
+    <label for="home address"><b>Enter mobile</b></label>
+    <input type="text" placeholder="Enter home address" name="Home address" id="Home address" required>
+    <br>
+    
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
